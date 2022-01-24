@@ -1,0 +1,33 @@
+{
+    "sleepnow": "Wenn Sie jetzt schlafen gehen, sollten Sie zu einem der folgenden Zeitpunkte aufwachen:",
+    "sleeplater_1": "Um um",
+    "sleeplater_2": " aufzuwachen, müssen Sie zu einer der folgenden Zeiten schlafen gehen:",
+    "sleep_cycels": "Eine gute Nachtruhe besteht aus 5-6 vollständigen Schlafzyklen.",
+
+    "back_button": "zurück",
+    
+    "time_format": "Zeitformat",
+    "language": "Sprache",
+    "fall_sleep_time": "Einschlafzeit",
+    "information": "mehr Informationen",
+
+    "language_english": "Englisch",
+    "language_german": "Deutsch",
+    
+    "settings": "EINSTELLUNGEN.",
+
+    "sleep_cycle_inf": "Schlaf Zyklen",
+    "sleep_cycle_inf_4": "Ein Schlafzyklus dauert etwa 90 Minuten, und während dieser Zeit durchlaufen wir fünf Schlafstadien. Über diese vier Stufen hinweg bewegen wir uns vom sehr leichten Schlaf in Stufe 1 bis hin zum sehr tiefen Schlaf in Stufe 4. In der letzten Phase des Schlafs tretten die meisten Träume auf.",
+
+    "sleep_time_inf": "Schlafenszeit",    
+    "sleep_time_inf_1": "Ein durchschnittlicher Mensch braucht etwa 15 Minuten zum Einschlafen. Dies wird von der App automatisch berechnet. Wenn Sie die Zeit ändern möchten, können Sie dies in den Einstellungen tun.",  
+
+    "sleep_tipps_inf": "Tipps",    
+    "sleep_tipps_inf_1": "Versuchen Sie, zu konstanten Zeiten einzuschlafen.",  
+    "sleep_tipps_inf_2": "Essen Sie nicht zu spät am Abend.",  
+    "sleep_tipps_inf_3": "Nehmen Sie vor dem Schlafengehen keine Flüssigkeiten zu sich.",
+
+    "sleepnow_time": "SLEEP NOW.",
+    "sleeplater_time": "SLEEP LATER.",
+    "sleep_showtime": "Zeit anzeigen"
+}

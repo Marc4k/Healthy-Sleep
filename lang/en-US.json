@@ -1,0 +1,32 @@
+{
+    "sleepnow": "If you go to sleep right now, you should wake up at one of the following times:",
+    "sleeplater_1": "To wake up at",
+    "sleeplater_2": ", you need go to sleep at one of the following times:",
+    "sleep_cycels": "A good night’s sleep consists of 5-6 complete sleep cycles.",
+    "back_button": "go back",
+    "time_format": "time format",
+    "language": "language",
+    "fall_sleep_time": "fall asleep time",
+    "information": "more informations",
+    "language_english": "English",
+    "language_german": "German",
+    "settings": "SETTINGS.",
+
+    "sleep_cycle_inf": "Sleep cycels",
+   
+    "sleep_cycle_inf_4": "A sleep cycle lasts about 90 minutes, and during that time we move through five stages of sleep. Across these four stages we move from very light sleep during Stage 1 down to very deep sleep in Stage 4. During the final stage of sleep we have bursts of rapid eye movements. This is the stage of sleep in which most dreaming occurs.",
+
+    "sleep_time_inf": "Sleep time",    
+    "sleep_time_inf_1": "An average human need about 15 minutes to fall asleep. The app will automatically calculate this. If you want to chance the time you can do it in the settings.",  
+
+    "sleep_tipps_inf": "Tips",    
+    "sleep_tipps_inf_1": "Try to sleep at consistent times.",  
+    "sleep_tipps_inf_2": "Don’t eat late in the evening.",  
+    "sleep_tipps_inf_3": "Don’t drink any liquids before bed.",
+
+
+    "sleepnow_time": "SLEEP NOW.",
+    "sleeplater_time": "SLEEP LATER.",
+    "sleep_showtime": "show time"
+
+}
