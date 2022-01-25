@@ -1,16 +1,12 @@
-# healthy_sleep_finish
+# Healthy Sleep
 
-A new Flutter project.
+My first small app,
 
-## Getting Started
+## Version
 
-This project is a starting point for a Flutter application.
+v 1.0 
+First version of the app is already ready to push to the playstore.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![home](https://user-images.githubusercontent.com/80976974/150954214-b18a8369-56b0-46d0-ad38-350ca70bb262.jpg)
+![sleep_later](https://user-images.githubusercontent.com/80976974/150954218-c42672cc-9864-4e66-88e9-3846c4570089.jpg)
+![sleep_now](https://user-images.githubusercontent.com/80976974/150954221-bf0579e7-ea46-422d-a39e-8bc610b2e19b.jpg)
