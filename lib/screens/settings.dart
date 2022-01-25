@@ -4,6 +4,7 @@ import 'package:healthy_sleep_finish/screens/Home.dart';
 import 'package:healthy_sleep_finish/widgets/widget.dart';
 
 import 'package:easy_localization/easy_localization.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class Settings extends StatefulWidget {
   @override
@@ -221,6 +222,22 @@ class _SettingsState extends State<Settings> {
                   children: [
                     custom_text("${Text("information").data.tr()}", 18,
                         FontWeight.w400),
+                    Spacer(),
+                    Icon(
+                      Icons.open_in_new_outlined,
+                      color: Colors.white,
+                    ),
+                  ],
+                ),
+              ),
+              gap_normal(context),
+              GestureDetector(
+                onTap: () => launch(
+                    "https://github.com/Marc4k/privacy/blob/main/healthy-sleep-privacy-policy.md"),
+                child: Row(
+                  children: [
+                    custom_text(
+                        "${Text("daten").data.tr()}", 18, FontWeight.w400),
                     Spacer(),
                     Icon(
                       Icons.open_in_new_outlined,

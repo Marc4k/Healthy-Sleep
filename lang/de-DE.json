@@ -29,5 +29,9 @@
 
     "sleepnow_time": "SLEEP NOW.",
     "sleeplater_time": "SLEEP LATER.",
-    "sleep_showtime": "Zeit anzeigen"
+    "sleep_showtime": "Zeit anzeigen",
+
+
+    "daten": "Datenschutzerklärung"
+
 }
