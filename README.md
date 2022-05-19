@@ -1,12 +1,28 @@
 # Healthy Sleep
 
-My first small app,
+The purpose of the app is to calculate the perfect time to wake up.
+You can calculate the time to wake up when you go to sleep now.
+Also, the app shows you the time to go to sleep when you want to wake up at a specific time.
+<br>
 
-## Version
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) <br>
+![Healthy Sleep]([https://play.google.com/store/apps/details?id=com.marcplace.healthySleep](https://play.google.com/store/apps/details?id=com.marcplace.healthySleep))
 
-v 1.0 
-First version of the app is already ready to push to the playstore.
+## Features
+- calculation wakeup and sleep time
+- language support German and English
+- 24h and 12h time format
+- select your own time and how long you need to get asleep
 
+
+## What I learned
+- making a app ready to publish it
+- publishing apps to the play store
+- different language support
+- how to use shared preferences
+
+
+## Pictures
 
 Home            |  Sleep later | Sleep now
 :-------------------------:|:-------------------------:|:-------------------------:
