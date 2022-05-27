@@ -5,8 +5,7 @@ You can calculate the time to wake up when you go to sleep now.
 Also, the app shows you the time to go to sleep when you want to wake up at a specific time.
 <br>
 
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) <br>
-[Healthy Sleep](https://play.google.com/store/apps/details?id=com.marcplace.healthySleep)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.marcplace.healthySleep)
 
 ## Features
 - calculation wakeup and sleep time
